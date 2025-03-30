@@ -1,0 +1,32 @@
+[
+    {
+        "name": "tvt",
+        "email": "tvt@gmail.com",
+        "age": 21,
+        "status": true
+    },
+    {
+        "name": "tt",
+        "email": "tt@gmail.com",
+        "age": 21,
+        "status": true
+    },
+    {
+        "name": "ttkv",
+        "email": "ttkv@gmail.com",
+        "age": 21,
+        "status": true
+    },
+    {
+        "name": "nmv",
+        "email": "nmv@gmail.com",
+        "age": 23,
+        "status": true
+    }
+    {
+        "name": "ntpl",
+        "email": "ntpl@gmail.com",
+        "age": 23,
+        "status": true
+    }
+]
